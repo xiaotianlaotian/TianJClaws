@@ -1,0 +1,409 @@
+List of SGML tags and entities - C7 Tagset
+!--		ignore_symbol		comment
+abbrev		ignore_symbol
+add		ignore_symbol
+align		ignore_symbol
+back		ignore_symbol		break
+caption		ignore_symbol		break
+cdif		ignore_symbol
+citn		ignore_symbol           break
+date		ignore_symbol
+del		ignore_symbol
+distinct	ignore_symbol
+div		ignore_symbol		break
+div0		ignore_symbol		break
+div1		ignore_symbol		break
+div2		ignore_symbol		break
+div3		ignore_symbol		break
+div4		ignore_symbol           break
+event		ignore_symbol
+front		ignore_symbol		break
+head		ignore_symbol		break
+hi		ignore_symbol
+item		ignore_symbol		break
+l		ignore_symbol		break
+label		ignore_symbol		break
+lb		ignore_symbol
+list		ignore_symbol		break
+loc		ignore_symbol
+note		ignore_symbol		break
+omit		ignore_symbol
+p		ignore_symbol		break
+pause		ignore_symbol
+pb		ignore_symbol
+poem		ignore_symbol		break
+propName	ignore_symbol
+ptr		ignore_symbol
+q		ignore_symbol		break
+quote		ignore_symbol		break
+reg		ignore_symbol
+s		ignore_symbol
+salute		ignore_symbol
+shift		ignore_symbol
+sic		ignore_symbol
+sp		ignore_symbol           break
+spkr		ignore_symbol           break
+stage		ignore_symbol           break
+stext+		start_text_symbol
+text+		start_text_symbol
+title		ignore_symbol
+trunc+		ignore_symbol
+u		ignore_symbol		break
+unclear		ignore_symbol
+vocal		ignore_symbol
+****
+AElig		upper_case_letter	AE
+Aacute		upper_case_letter	A
+Abreve		upper_case_letter	A
+Acaron		upper_case_letter	A
+Acirc		upper_case_letter	A
+Agr		greek_letter
+Agrave		upper_case_letter	A
+Amacr		upper_case_letter	A
+Aogon		upper_case_letter	A
+Aring		upper_case_letter	A
+Atilde		upper_case_letter	A
+Auml		upper_case_letter	A
+Bgr		greek_letter
+Cacute		upper_case_letter	C
+Ccaron		upper_case_letter	C
+Ccedil		upper_case_letter	C
+Ccirc		upper_case_letter	C
+Cdot		upper_case_letter	C
+Dcaron		upper_case_letter	D
+Ddotb		upper_case_letter	D
+Dgr		greek_letter
+Dstrok		upper_case_letter	D
+EEgr		greek_letter
+ETH		upper_case_letter	TH
+Eacute		upper_case_letter	E
+Ecaron		upper_case_letter	E
+Ecirc		upper_case_letter	E
+Edot		upper_case_letter	E
+Egr		greek_letter
+Egrave		upper_case_letter	E
+Emacr		upper_case_letter	E
+Eogon		upper_case_letter	E
+Euml		upper_case_letter	E
+Gacute		upper_case_letter	G
+Gbreve		upper_case_letter	G
+Gcedil		upper_case_letter	G
+Gcirc		upper_case_letter	G
+Gdot		upper_case_letter	G
+Ggr		greek_letter
+Gt		other_formula_symbol
+Hcirc		upper_case_letter	H
+Hstrok		upper_case_letter	H
+Iacute		upper_case_letter	I
+Icirc		upper_case_letter	I
+Idot		upper_case_letter	I
+Igr		greek_letter
+Igrave		upper_case_letter	I
+Imacr		upper_case_letter	I
+Iogon		upper_case_letter	I
+Itilde		upper_case_letter	I
+Iuml		upper_case_letter	I
+Jcirc		upper_case_letter	J
+KHgr		greek_letter
+Kcedil		upper_case_letter	K
+Kgr		greek_letter
+Lacute		upper_case_letter	L
+Lcaron		upper_case_letter	L
+Lcedil		upper_case_letter	L
+Lgr		greek_letter
+Lstrok		upper_case_letter	L
+Lt		other_formula_symbol
+Mgr		greek_letter
+Nacute		upper_case_letter	N
+Ncaron		upper_case_letter	N
+Ncedil		upper_case_letter	N
+Ndot		upper_case_letter	N
+Ndotb		upper_case_letter	N
+Ngr		greek_letter
+Ntilde		upper_case_letter	N
+OElig		upper_case_letter	OE
+OHgr		greek_letter
+Oacute		upper_case_letter	O
+Ocirc		upper_case_letter	O
+Ogr		greek_letter
+Ograve		upper_case_letter	O
+Omacr		upper_case_letter	O
+Oslash		upper_case_letter	O
+Otilde		upper_case_letter	O
+Ouml		upper_case_letter	O
+PHgr		greek_letter
+PSgr		greek_letter
+Pgr		greek_letter
+Prime		other_unit_symbol
+Racute		upper_case_letter	R
+Rcaron		upper_case_letter	R
+Rcedil		upper_case_letter	R
+Rgr		greek_letter
+SZlig		upper_case_letter	SZ
+Sacute		upper_case_letter	S
+Scaron		upper_case_letter	S
+Scedil		upper_case_letter	S
+Scirc		upper_case_letter	S
+Sdotb		upper_case_letter	S
+Sgr		greek_letter
+THORN		upper_case_letter	TH
+THgr		greek_letter
+Tcaron		upper_case_letter	T
+Tcedil		upper_case_letter	T
+Tdotb		upper_case_letter	T
+Tgr		greek_letter
+Tstrok		upper_case_letter	T
+Uacute		upper_case_letter	U
+Ubreve		upper_case_letter	U
+Ucirc		upper_case_letter	U
+Ugr		greek_letter
+Ugrave		upper_case_letter	U
+Umacr		upper_case_letter	U
+Uogon		upper_case_letter	U
+Uring		upper_case_letter	U
+Utilde		upper_case_letter	U
+Uuml		upper_case_letter	U
+Wcirc		upper_case_letter	W
+Xgr		greek_letter
+Yacute		upper_case_letter	Y
+Ycirc		upper_case_letter	Y
+Yuml		upper_case_letter	Y
+Zacute		upper_case_letter	Z
+Zcaron		upper_case_letter	Z
+Zdot		upper_case_letter	Z
+Zgr		greek_letter
+aacute		lower_case_letter	a
+abreve		lower_case_letter	a
+acaron		lower_case_letter	a
+acirc		lower_case_letter	a
+acute		other_noise_symbol
+addr		ignore_symbol
+aelig		lower_case_letter	ae
+agr		greek_letter
+agrave		lower_case_letter	a
+ain		lower_case_letter	a
+alien		ignore_symbol
+amacr		lower_case_letter	a
+amp		ampersand_symbol
+aogon		lower_case_letter	a
+ape		other_formula_symbol
+aring		lower_case_letter	a
+ast		asterisk_symbol
+atilde		lower_case_letter	a
+auml		lower_case_letter	a
+bgr		greek_letter
+bquo		double_quote_symbol
+bsol		slash_symbol
+bull		hyphen_symbol
+cacute		lower_case_letter	c
+ccaron		lower_case_letter	c
+ccedil		lower_case_letter	c
+ccirc		lower_case_letter	c
+cdot		lower_case_letter	c
+cent		other_unit_symbol
+check		other_formula_symbol
+cir		other_formula_symbol
+circ		other_noise_symbol
+colon		colon_symbol
+commat		at_symbol
+copy		other_noise_symbol
+darr		other_formula_symbol
+dash		hyphen_symbol
+dcaron		lower_case_letter	d
+ddotb		lower_case_letter	d
+deg		other_unit_symbol
+dgr		greek_letter
+die		other_noise_symbol
+divide		other_formula_symbol
+dollar		dollar_symbol
+dstrok		lower_case_letter	d
+dtrif		other_formula_symbol
+eacute		lower_case_letter	e
+ecaron		lower_case_letter	e
+ecirc		lower_case_letter	e
+edot		lower_case_letter	e
+eegr		greek_letter
+egr		greek_letter
+egrave		lower_case_letter	e
+emacr		lower_case_letter	e
+eogon		lower_case_letter	e
+equals		other_formula_symbol
+equo		double_quote_symbol
+eth		lower_case_letter	th
+euml		lower_case_letter	e
+fig		ignore_symbol
+flat		other_formula_symbol
+formula		other_formula_symbol
+frac12		digit
+frac13		digit
+frac14		digit
+frac15		digit
+frac16		digit
+frac17		digit
+frac18		digit
+frac19		digit
+frac23		digit
+frac25		digit
+frac27		digit
+frac29		digit
+frac34		digit
+frac35		digit
+frac37		digit
+frac38		digit
+frac45		digit
+frac47		digit
+frac49		digit
+frac56		digit
+frac57		digit
+frac58		digit
+frac59		digit
+frac67		digit
+frac78		digit
+frac79		digit
+frac89		digit
+ft		other_unit_symbol
+gacute		lower_case_letter	g
+gbreve		lower_case_letter	g
+gcedil		lower_case_letter	g
+gcirc		lower_case_letter	g
+gdot		lower_case_letter	g
+ge		other_formula_symbol
+ggr		greek_letter
+gt		other_formula_symbol
+half		digit
+hcirc		lower_case_letter	h
+hellip		ellipsis_symbol
+horbar		other_formula_symbol
+hstrok		lower_case_letter	h
+iacute		lower_case_letter	i
+icirc		lower_case_letter	i
+idot		lower_case_letter	i
+iexcl		other_punc_symbol	!
+igr		greek_letter
+igrave		lower_case_letter	i
+illus		ignore_symbol
+imacr		lower_case_letter	i
+infin		other_formula_symbol
+ins		other_unit_symbol
+iogon		lower_case_letter	i
+iquest		other_noise_symbol
+itilde		lower_case_letter	i
+iuml		lower_case_letter	i
+jcirc		lower_case_letter	j
+kcedil		lower_case_letter	k
+kgr		greek_letter
+khgr		greek_letter
+lacute		lower_case_letter	l
+larr		other_formula_symbol
+lcaron		lower_case_letter	l
+lcedil		lower_case_letter	l
+lcub		left_parenthesis
+ldquo		double_quote_symbol
+le		other_formula_symbol
+lgr		greek_letter
+lowbar		other_noise_symbol
+lsqb		left_parenthesis
+lstrok		lower_case_letter	l
+lt		other_formula_symbol
+ltrif		other_formula_symbol
+mdash		hyphen_symbol
+mdot		lower_case_letter	m
+mgr		greek_letter
+micro		other_unit_symbol
+middot		other_formula_symbol
+nacute		lower_case_letter	n
+name		other_word_symbol	NP1
+natur		other_formula_symbol
+ncaron		lower_case_letter	n
+ncedil		lower_case_letter	n
+ndash		hyphen_symbol
+ndot		lower_case_letter	n
+ndotb		lower_case_letter	n
+ngr		greek_letter
+ntilde		lower_case_letter	n
+num		other_noise_symbol
+number		other_noise_symbol
+oacute		lower_case_letter	o
+ocirc		lower_case_letter	o
+oelig		lower_case_letter	oe
+ogr		greek_letter
+ograve		lower_case_letter	o
+ohgr		greek_letter
+ohm		other_unit_symbol
+omacr		lower_case_letter	o
+oslash		lower_case_letter	o
+otilde		lower_case_letter	o
+ouml		lower_case_letter	o
+percnt		percent_symbol
+pgr		greek_letter
+phgr		greek_letter
+plus		plus_symbol
+plusmn		other_formula_symbol
+pound		pound_symbol
+prime		other_unit_symbol
+psgr		greek_letter
+quot		double_quote_symbol
+racute		lower_case_letter	r
+radic		other_formula_symbol
+rarr		other_formula_symbol
+rcaron		lower_case_letter	r
+rcedil		lower_case_letter	r
+rcub		right_parenthesis
+rdotb		lower_case_letter	r
+rdquo		double_quote_symbol
+reg		other_noise_symbol
+rehy		hyphen_symbol
+rgr		greek_letter
+rsqb		right_parenthesis
+rtrif		other_formula_symbol
+sacute		lower_case_letter	s
+scaron		lower_case_letter	s
+scedil		lower_case_letter	s
+scirc		lower_case_letter	s
+sdotb		lower_case_letter	s
+sect		other_formula_symbol
+sfgr		greek_letter
+sgr		greek_letter
+sharp		other_formula_symbol
+shilling	other_unit_symbol
+sim		other_formula_symbol
+sol		slash_symbol
+sup1		other_unit_symbol
+sup2		other_unit_symbol
+sup3		other_unit_symbol
+szlig		lower_case_letter	sz
+table		ignore_symbol
+tcaron		lower_case_letter	t
+tcedil		lower_case_letter	t
+tdotb		lower_case_letter	t
+tel		ignore_symbol
+tgr		greek_letter
+thgr		greek_letter
+thorn		lower_case_letter	th
+tilde		tilde_symbol
+times		other_formula_symbol
+trade		other_noise_symbol
+tstrok		lower_case_letter	t
+uacute		lower_case_letter	u
+uarr		up_arrow_symbol
+ubreve		lower_case_letter	u
+ucirc		lower_case_letter	u
+ugr		greek_letter
+ugrave		lower_case_letter	u
+umacr		lower_case_letter	u
+uml		other_noise_symbol
+uogon		lower_case_letter	u
+uring		lower_case_letter	u
+utilde		lower_case_letter	u
+uuml		lower_case_letter	u
+verbar		other_noise_symbol
+wcirc		lower_case_letter	w
+xgr		greek_letter
+yacute		lower_case_letter	y
+ycirc		lower_case_letter	y
+yen		other_currency_symbol
+yuml		lower_case_letter	y
+zacute		lower_case_letter	z
+zcaron		lower_case_letter	z
+zdot		lower_case_letter	z
+zgr		greek_letter
